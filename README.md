@@ -23,6 +23,7 @@ Endpoints
 The following endpoints are available:
 
 GET /items: Returns a list of all items in the database.
+
 POST /items: Creates a new item in the database.
 
 ## Environment Variables
